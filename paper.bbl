@@ -1,0 +1,13 @@
+\begin{thebibliography}{2}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Bouvier et~al.(2008)Bouvier, Benoit, Caplier, and Coulon}]{bouvier2008}
+Bouvier, C., Benoit, A., Caplier, A., Coulon, P.-Y., October 2008. Open or closed mouth state detection: Static supervised classification based on log-polar signature. In: Proceedings of the 10th International Conference on Advanced Concepts for Intelligent Vision Systems. Vol. 5259. pp. 1093--1102.
+
+\bibitem[{Tola et~al.(2010)Tola, Lepetit, and Fua}]{tola2010daisy}
+Tola, E., Lepetit, V., Fua, P., 2010. Daisy: An efficient dense descriptor applied to wide-baseline stereo. IEEE transactions on pattern analysis and machine intelligence 32~(5), 815--830.
+
+\end{thebibliography}
